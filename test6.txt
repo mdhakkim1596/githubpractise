@@ -1,0 +1,2 @@
+create test6.txt file
+this create new one
