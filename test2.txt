@@ -1,2 +1,3 @@
-create new text file
+create a new text file
 this one new modified file
+new file added from GitHub place
